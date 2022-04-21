@@ -1,0 +1,40 @@
+{
+  "AddressBookDB": [
+    {
+      "id": 1,
+      "_Fullname": "Mark Billing",
+      "_address": "At.post Ekamba Tq.Basavakalyan Dist.Bidar",
+      "_City": "Bengalore",
+      "_State": "Karnataka",
+      "_ZipCode": "585419",
+      "_PhoneNumber": "+91 7026686954"
+    },
+    {
+      "id": 2,
+      "_Fullname": "Bill Robert Jhonson",
+      "_address": "At.Post Turori Tq.Omerga Dist.Osmanabad",
+      "_City": "Mumbai",
+      "_State": "Maharastra",
+      "_ZipCode": "400001",
+      "_PhoneNumber": "+91 7387979056"
+    },
+    {
+      "_Fullname": "Keerthi Jadhav",
+      "_address": "At.Post Ujalamb Tq.Basavakalyan Dist.Bidar",
+      "_City": "Hyderabad",
+      "_State": "Andhra Pradesh",
+      "_ZipCode": "500001",
+      "_PhoneNumber":"+91 8722951806",
+      "id": 3
+    },
+    {
+      "_Fullname": "Kavya Mukherji",
+      "_PhoneNumber": "+91 9503096832",
+      "_address": "At.Post Shiradhon Tq.Nilanga Dist.Latur",
+      "_State": "Maharastra",
+      "_City": "Pune",
+      "_ZipCode": "413606",
+      "id": 5
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "contactDB": [
+    {
+      "Fullname": "Akshay Jadhav new",
+      "address": "At.Post Ekamba Tq.Basavakalyan Dist.Bidar",
+      "City": "Bengalore",
+      "State": "Karnataka",
+      "ZipCode": "585419",
+      "PhoneNumber": "+91 8722951806"
+    },
+    {
+      "Fullname": "Akshay  Jadhav test",
+      "address": "At.Post Ekamba Tq.Basavakalyan Dist.Bidar",
+      "city": "Bengalore",
+      "State": "Karnataka",
+      "ZipCode": "585445",
+      "PhoneNumber": "+91 8722620121"
+    },
+    {
+      "Fullname": "Akshay",
+      "address": "At.Post Ekamba Tq.Basavakalyan Dist.Bidar",
+      "city": "Bengalore",
+      "State": "Karnataka",
+      "ZipCode": "585445",
+      "PhoneNumber": "+91 8722620121"
+    },
+    {
+      "Fullname": "test",
+      "gender": "male",
+      "address": "At.Post Ekamba Tq.Basavakalyan Dist.Bidar",
+      "city": "Bengalore",
+      "State": "Karnataka",
+      "ZipCode": "585445",
+      "PhoneNumber": "+91 8722620121"
+    }
+  ]
+}
